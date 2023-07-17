@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AnuththaraBasnayaka">
-    <img src="petlogo.png" alt="Logo" width="100" height="100">
+    <img src="petlogo.jpeg" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Tea Managemenet System</h3>
